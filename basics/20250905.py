@@ -1,6 +1,6 @@
 '''
 Author: DongWoo Park
-Date: 20250905
+Date: 2025-09-05
 이 프로그램은 점프 투 파이썬의 02-3 학습 기록이다.
 '''
 
@@ -102,4 +102,5 @@ TypeError: string indices must be integers, not 'tuple'
 >>> a.extend(b)
 >>> a
 [1, 2, 3, 4, 5, 6, 7]
+
 
